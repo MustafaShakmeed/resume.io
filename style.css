@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+body:hover {
+    background-color: wheat;
+}
+
+#cv-templeat {
+    display: none;
+}
+
+.myimg {
+    width: 50%;
+}
+
+.backround {
+    background-color: aquamarine;
+}
